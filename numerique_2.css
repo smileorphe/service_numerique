@@ -1,0 +1,207 @@
+body
+{
+    margin: 0px;
+    background-color: rgba(255, 255, 255, 0.897);
+}
+
+/* en tete site */
+
+.he
+{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(90deg, #9edef2c0,#c3f0be);
+    
+}
+.he_1 img
+{
+    width: 180px;
+    height: 80px;
+}
+
+
+input
+{
+    border-radius: 15px;      
+    width: 400px;
+    height: 30px;
+}
+h3 ul li a
+{
+    color: #ddd;
+    display: block;
+    padding: 10px 20px;
+    text-align: left;
+    font-size: 13px;   
+    text-decoration: none; 
+}
+.fa-solid
+{
+    margin-left: -25px;
+    width: 27px;
+    height: 30px;
+}
+.fa-solid.fa-bars
+{
+    width: 16px;
+    height: 16px;
+}
+
+/* premiere partie du site*/
+
+/* block premiere annee*/
+
+
+.sec_1
+{
+    background-color: rgb(232, 212, 186);
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    border-radius:50px 50px;
+    margin: 20px 50px;
+    
+}
+.block_1 img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+.block_1_2
+{
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.block_1_1,.block_1_2
+{
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block_1_1 h2,.block_1_2 p,.block_1_3 a
+{
+    margin: 0px;
+}
+.block_1_1 h2
+{
+    font-family: "Roboto", Sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+.block_1_2
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.block_1_2 p
+{
+    margin-top: 10px;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    font-family: "Roboto", Sans-serif;
+}
+.block_1_3
+{
+    text-align: center;
+    margin-top: 10px;
+}
+.block_1_3 a
+{
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    font-family: "Roboto", Sans-serif; 
+    background-color:  rgba(164, 151, 134, 0.742);
+    border-radius: 6px;
+    padding: 3px 3px;
+}
+.block_1_3 a:hover
+{
+    padding: 2px 2px;
+    background-color: rgba(124, 115, 102, 0.742);
+    box-shadow: 3px 2px 2px black;
+}
+.block_2
+{
+    padding: 40px 40px 40px 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* pied de page */
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+{
+    background-color:rgba(57, 52, 52, 0.792);
+}
+textarea
+{
+    width: 400px;
+    height: 100px;
+    resize: none;
+    border-radius: 10px;
+    border: 2px black solid;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.fin_1
+{
+    background: linear-gradient(90deg, #9edef2c0,#c3f0be);
+}
+.fin_2
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 5px;
+}
+.fin_2 a
+{
+    color: rgb(113, 204, 173);
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
